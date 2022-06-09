@@ -1,0 +1,59 @@
+p
+{
+	color:  grey;
+}
+
+p
+{
+	font-family: Arial, "Arial Black", Times New Roman;
+}
+
+h1
+{
+	text-align: center; font-weight: bold; color: hotpink;
+	width: 600px;
+}
+
+h2
+{
+
+	text-align: center; font-weight: bold; color: rgb(110, 30, 120);background-color: rgba(255, 152, 204, 0.2); box-shadow: 6px 6px 8px silver;
+}
+
+h3
+{
+	text-align: left; font-weight: bold; color: navy;text-shadow: 10px 10px 1px white;
+}
+
+p
+{
+	text-align: justify;
+	widht: 50%
+	min-width: 400px;
+}
+
+body
+{
+	background-color: rgb(254, 230, 253);
+	background-image: url("Images/Zen.jpg");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: top;
+}
+
+a:hover
+{
+	color: fuchsia;
+}
+
+a:visited
+{
+	color: #999999;
+}
+
+h1
+{
+	border: 3px deeppink double;
+	border-radius: 13px / 20px;
+	padding: 1px;
+}
